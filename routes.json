@@ -1,0 +1,5 @@
+{
+  "/Tasks/Get": "/tasks",
+  "/Tasks/Save": "/save",
+  "/Tasks/Get\\?project-id=:id": "/tasks"
+}
